@@ -1,7 +1,7 @@
 import { kv } from '@vercel/kv';
 
 // قائمة المفاتيح المسموح بها فقط
-const VALID_KEYS = ["system2026-XMN-870"];
+const VALID_KEYS = ["V3.5-NEWHR2026-newedition987"];
 
 export default async function handler(req, res) {
     // إعدادات الـ CORS
