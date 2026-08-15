@@ -1,7 +1,7 @@
 import { kv } from '@vercel/kv';
 
 // قائمة المفاتيح المسموح بها فقط
-const VALID_KEYS = ["Elsayedyahia2026-HR"];
+const VALID_KEYS = ["Elsayedyahia2026"];
 
 export default async function handler(req, res) {
     // إعدادات الـ CORS
